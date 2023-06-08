@@ -1,5 +1,7 @@
 # FBChatbot_KoboldAI
 
+![FB Chat Example](image.jpeg)
+
 This is a Facebook Messenger Chatbot Callback Server powered by KoboldAI. For more detailed instructions on setting up the KoboldAI Client, please refer to this [guide](https://github.com/KoboldAI/KoboldAI-Client).
 For non-GPU users, Colab Pro+ is strongly recommended for KoboldAI endpoint generation. 
 
